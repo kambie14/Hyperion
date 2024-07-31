@@ -1,2 +1,3 @@
 print("Git is awesome!")
-age = print(input("How old are you?"))
+# Get user age
+age = input(print("How old are you?:"))
